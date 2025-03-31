@@ -38,4 +38,8 @@ private void netbanking() {
 	System.out.println("This is selva - working on netbanking");
 }
 
+private void forgotPassword() {
+	System.out.println("This is velu - working on forgot password");
+}
+
 }
