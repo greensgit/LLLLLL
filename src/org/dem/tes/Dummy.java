@@ -42,4 +42,8 @@ private void forgotPassword() {
 	System.out.println("This is velu - working on forgot password");
 }
 
+private void changePassword() {
+	System.out.println("This is vasugi - working on change password");
+}
+
 }
